@@ -15,11 +15,19 @@ _/_| |/___/  _/ _|  |/
 
 ---
 
-### 📊 Métricas do Sistema
+### 📊 Métricas & Tecnologias do Sistema
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Helton-Farias&show_icons=true&theme=matrix&hide_border=true)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=120&section=header&text=HELTON%20FARIAS&fontSize=30&fontColor=000000" width="100%" />
+</p>
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Helton-Farias&layout=compact&theme=matrix&hide_border=true)
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
 ---
 
 ### 🌐 Conexões
