@@ -17,17 +17,9 @@ _/_| |/___/  _/ _|  |/
 
 ### 📊 Métricas do Sistema
 
-<p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=Helton-Farias&show_icons=true&theme=matrix&hide_border=true](https://github-readme-stats.vercel.app/api?username=Helton-Farias&show_icons=true&theme=matrix&hide_border=true)" alt="Estatísticas do GitHub" />
-</p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Helton-Farias&show_icons=true&theme=matrix&hide_border=true)
 
-<p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Helton-Farias&layout=compact&theme=matrix&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Helton-Farias&layout=compact&theme=matrix&hide_border=true)" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=Helton-Farias&theme=matrix&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=Helton-Farias&theme=matrix&hide_border=true)" alt="Sequência no GitHub" />
-</p>
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Helton-Farias&layout=compact&theme=matrix&hide_border=true)
 
 ---
 
