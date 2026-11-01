@@ -20,7 +20,6 @@ _/_| |/___/  _/ _|  |/
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Helton-Farias&show_icons=true&theme=matrix&hide_border=true)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Helton-Farias&layout=compact&theme=matrix&hide_border=true)
-
 ---
 
 ### 🌐 Conexões
