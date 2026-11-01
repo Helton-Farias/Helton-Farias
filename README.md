@@ -1,68 +1,9 @@
-<!-- BANNER DE TOPO ESTILO HACKER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&stroke=00FF66&strokeWidth=2&height=200&section=header&text=SISTEMA%20//%20HELTON%20FARIAS&fontSize=38&fontColor=00FF66&animation=twinkle" width="100%" />
-</p>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff66&height=200&section=header&text=SISTEMA%20//%20HELTON%20FARIAS&fontColor=00ff66&fontSize=42&fontAlignY=38&desc=Log%C3%ADstica%20%E2%9E%9C%20Dados%20%E2%9E%9C%20Programa%C3%A7%C3%A3o&descColor=ffffff&descSize=18&descAlignY=60" alt="Banner Helton Farias" /> <a href="https://github.com/SEU-USUARIO"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Iniciando+do+zero+na+programa%C3%A7%C3%A3o...;Log%C3%ADstica+%2B+Dados+%2B+Automa%C3%A7%C3%A3o;Um+commit+por+dia+%F0%9F%9A%80" alt="Typing SVG" /> </a>
 
-<!-- ÍCONES DE REDES SOCIAIS -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/helton-farias-b52ab864/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF66&borderColor=00FF66" />
-  </a>
-  <a href="https://github.com/Helton-Farias" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF66&borderColor=00FF66" />
-  </a>
-</p>
+<br><br>
 
-<br/>
+<a href="https://www.linkedin.com/in/helton-farias-b52ab864/"> <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00ff66" alt="LinkedIn" /> </a> <a href="https://github.com/SEU-USUARIO"> <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00ff66" alt="GitHub" /> </a> <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=VISITAS&color=00ff66&style=for-the-badge&labelColor=000000" alt="Visitas" /> </div> <hr> <h2>👋 Olá, sou o Helton Farias!</h2> <p> Profissional com <b>formação técnica em logística</b> e vivência em <b>rotinas operacionais</b> (estoque e expedição). Uso Excel no dia a dia, aprendo na prática e agora estou iniciando do zero a minha jornada no mundo da <b>programação e tecnologia</b>. 🚀 </p> <details open> <summary><b>▶️ Mais sobre mim</b></summary> <br> <ul> <li>🎓 <b>Formação Base:</b> Técnico em Logística &amp; Curso de Lógica de Programação (Senac)</li> <li>🔭 <b>Foco Atual:</b> Logística &amp; início nos estudos de programação do zero, com interesse em dados</li> <li>🎯 <b>Objetivo:</b> Unir logística e tecnologia, automatizando processos e tomando decisões com dados</li> <li>⚡ <b>Interesses:</b> Lógica de programação, automação, IA e violino 🎻</li> </ul> </details> <hr> <h2>💻 Conhecimentos &amp; Estudos atuais</h2> <p> <img src="https://img.shields.io/badge/EXCEL-B%C3%81SICO-217346?style=for-the-badge" alt="Excel básico" /> <img src="https://img.shields.io/badge/L%C3%93GICA_DE-PROGRAMA%C3%87%C3%83O-000000?style=for-the-badge" alt="Lógica de programação" /> <img src="https://img.shields.io/badge/LOG%C3%8DSTICA-T%C3%89CNICO-0B3D91?style=for-the-badge" alt="Logística" /> <img src="https://img.shields.io/badge/ESTUDANDO-PYTHON-00ff66?style=for-the-badge&logo=python&logoColor=black" alt="Estudando Python" /> </p> <h3>🌱 Na fila de estudos</h3> <table> <thead> <tr> <th align="center">Etapa</th> <th align="left">Tecnologia</th> <th align="center">Status</th> </tr> </thead> <tbody> <tr><td align="center">1</td><td>Lógica de programação</td><td align="center">✅ Base (Senac)</td></tr> <tr><td align="center">2</td><td>Python (fundamentos)</td><td align="center">🟢 Em andamento</td></tr> <tr><td align="center">3</td><td>Git &amp; GitHub</td><td align="center">⚪ Próximo</td></tr> <tr><td align="center">4</td><td>Python para análise de dados (Pandas)</td><td align="center">⚪ Planejado</td></tr> <tr><td align="center">5</td><td>SQL</td><td align="center">⚪ Planejado</td></tr> <tr><td align="center">6</td><td>Automação de planilhas e processos</td><td align="center">⚪ Planejado</td></tr> <tr><td align="center">7</td><td>Power BI / dashboards</td><td align="center">⚪ Planejado</td></tr> </tbody> </table> <hr> <h2>📊 Métricas do Perfil</h2> <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark&bg_color=000000&title_color=00ff66&icon_color=00ff66&text_color=ffffff&border_color=00ff66" alt="Estatísticas GitHub" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dark&bg_color=000000&title_color=00ff66&text_color=ffffff&border_color=00ff66" alt="Linguagens" /> <br> <img src="https://streak-stats.demolab.com/?user=SEU-USUARIO&theme=dark&background=000000&ring=00ff66&fire=00ff66&currStreakLabel=00ff66&border=00ff66" alt="Streak" /> </div> <hr> <h2>🎯 Metas</h2> <ul> <li>✅ Concluir o curso de Lógica de Programação</li> <li>✅ Criar meu perfil no GitHub</li> <li>⬜ Publicar meu primeiro repositório</li> <li>⬜ Criar meu primeiro script em Python</li> <li>⬜ Automatizar uma rotina de logística (estoque/expedição)</li> <li>⬜ Montar um portfólio com projetos de dados</li> </ul> <hr> <h2>📬 Vamos conversar?</h2> <div align="center"> <p>Estou aprendendo em público e adoro trocar ideias sobre <b>logística, dados e tecnologia</b>.</p> <a href="https://www.linkedin.com/in/helton-farias-b52ab864/"> <img src="https://img.shields.io/badge/Falar%20no%20LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff66" alt="Falar no LinkedIn" /> </a>
 
-<!-- APRESENTAÇÃO -->
-<p align="left">
-  <b>Olá ⚡, sou o Helton Farias!</b> Profissional com formação técnica em logística e experiência em análise de dados operacionais (Excel avançado), iniciando do zero a minha jornada no mundo da <b>programação e tecnologia</b>. 🚀
-</p>
+<br><br>
 
-<details open>
-  <summary><b>▶ ⚡ Mais sobre mim</b></summary>
-  <br/>
-  <ul>
-    <li>🎓 <b>Formação Base:</b> Técnico em Logística & Curso de Lógica de Programação (Senac)</li>
-    <li>🔭 <b>Foco Atual:</b> Análise de dados no setor de logística & início nos estudos de programação do zero</li>
-    <li>⚡ <b>Interesses:</b> Lógica de programação, automação, IA e violino</li>
-  </ul>
-</details>
-
-<br/>
-
-<!-- ESTRUTURA EM DUAS COLUNAS (IGUAL AO EXEMPLO) -->
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <h3>🔥 Métricas do Perfil</h3>
-      <!-- CARD DE ESTATÍSTICAS NATIVO COM TEMA DARK/GREEN -->
-      <img src="https://github-readme-stats.vercel.app/api?username=Helton-Farias&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66&border_color=00FF66&hide_border=false" width="100%" />
-      <br/><br/>
-      <!-- CARD DE LINGUAGENS -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helton-Farias&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66&border_color=00FF66&hide_border=false" width="100%" />
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <!-- ILUSTRAÇÃO CYBERPUNK / PROGRAMAÇÃO NO LADO DIREITO -->
-      <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=800&auto=format&fit=crop" width="100%" style="border-radius: 8px; border: 2px solid #00FF66;" alt="Hacker Matrix Art" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- SEÇÃO DE TECNOLOGIAS E FERRAMENTAS -->
-<h3>💻 Conhecimentos & Estudos atuais</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Excel_Avançado-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lógica_de_Programação-000000?style=for-the-badge&logo=code&logoColor=00FF66&borderColor=00FF66" />
-  <img src="https://img.shields.io/badge/Estudando_do_Zero-00FF66?style=for-the-badge&logo=target&logoColor=000000" />
-</p>
-
-<br/>
-
-<!-- RODAPÉ ESTILO TERMINAL -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&stroke=00FF66&strokeWidth=1" width="100%"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff66,100:000000&height=100&section=footer" width="100%" alt="Rodapé" /> </div>
